@@ -1,0 +1,22 @@
+{
+  "name": "moon-sweepers-session-toolkit",
+  "displayName": "Moon Sweepers Session Toolkit",
+  "programType": "session-toolkit",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Crew notes",
+    "Session records",
+    "Equipment groups"
+  ],
+  "topics": [
+    "moon-sweepers-session-toolkit",
+    "moon-sweepers-tools",
+    "moon-sweepers-menu",
+    "moon-sweepers-settings",
+    "moon-sweepers-configs",
+    "moon-sweepers-crew-notes",
+    "moon-sweepers-session-records"
+  ]
+}
